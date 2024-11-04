@@ -6,7 +6,7 @@ body {
   /* background-attachment: fixed; */
   font-family: "Noto Sans TC", sans-serif;
   font-family: "Microsoft JhengHei";
-  background-color: #fffad2;
+  background-color: #E2F7FB;
 }
 
 .banner {
@@ -40,7 +40,7 @@ a {
 }
 
 .footer-color {
-  background-color: #9ca07c;
+  background-color: #25607A;
 }
 /* logo字的動畫效果 */
 @keyframes showTxt {

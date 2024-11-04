@@ -71,7 +71,7 @@ body {
 .typesetting-org {
   width: 100%;
   height: 60px;
-  background-color: #fcf7ca;
+  background-color: #E2F7FB;
   position: relative;
   overflow: hidden;
   z-index: -3;
@@ -190,7 +190,7 @@ body {
 }
 
 .contact-box {
-  background: #fffad2;
+  background: #E2F7FB;
   /* padding: 60px; */
   width: 100%;
   height: 100%;
@@ -259,7 +259,7 @@ body {
 }
 
 .box-org {
-  background-color: #fcf7ca;
+  background-color: #E2F7FB;
 }
 
 .box-whi {
